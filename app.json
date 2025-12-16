@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "vansi-design-system-runner",
-    "slug": "vansi-design-system-runner",
+    "name": "pvansi-design-system-app",
+    "slug": "pvansi-design-system-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -14,7 +14,7 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.anonymous.vansidesignsystemrunner"
+      "bundleIdentifier": "com.anonymous.pvansidesignsystemapp"
     },
     "android": {
       "adaptiveIcon": {
@@ -23,7 +23,7 @@
       },
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false,
-      "package": "com.anonymous.vansidesignsystemrunner"
+      "package": "com.anonymous.pvansidesignsystemapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
@@ -32,7 +32,9 @@
       [
         "expo-font",
         {
-          "fonts": ["./assets/fonts/Poppins"]
+          "fonts": [
+            "./assets/fonts/Poppins"
+          ]
         }
       ]
     ]
