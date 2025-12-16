@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "@types/react": "~19.1.0",
-    "pvansi-design-system-example": "^0.1.3",
+    "pvansi-design-system-example": "^0.1.4",
     "typescript": "~5.9.2"
   },
   "private": true
